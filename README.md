@@ -21,3 +21,27 @@ This guide aims to:
 1. Help you maintain a sense of the chatty community within Discord as much as possible.
 2. Introduce and explain Discord features that enhance community building and help keep information as static as possible.
 3. Provide you with an easy-to-check guide to Discord features that you might not know about.
+
+## II. Getting Started: The Basics of Discord
+
+### A. Downloading and Installing Discord (Desktop and Mobile)
+
+1. **Desktop:**
+    * Go to [https://discord.com/download](https://discord.com/download)
+    * Download the appropriate version for your operating system (Windows, macOS, or Linux).
+    * Run the installer and follow the instructions.
+    * You can also use Discord in your web browser if you prefer not to install the app.
+2. **Mobile:**
+    * Search for "Discord" in the App Store (iOS) or Google Play Store (Android).
+    * Download and install the app.
+
+### B. Creating an Account and Joining the Server
+
+1. **Creating an Account:**
+    * Open the Discord app or go to [https://discord.com/](https://discord.com/) in your browser.
+    * Click "Register" or "Open Discord in your browser."
+    * Enter your email, choose a username (please use something recognizable from the forum if possible), create a password, and provide your date of birth.
+    * Verify your email address.
+2. **Joining the Server:**
+    * Use the following link: `https://discord.gg/thechatty` and you'll be prompted to join the server.
+    * Alternatively, you can open Discord, click the "+" icon in the server list (left sidebar), choose "Join a Server," and paste the invite link.
