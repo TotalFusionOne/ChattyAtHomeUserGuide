@@ -10,7 +10,7 @@ The shift from the familiar threaded Chatty to Discord might feel a bit jarring 
 
 Here's a quick rundown of some fundamental differences:
 
-* **Real-time Chat vs. Threaded Posts:** Discord's core is real-time chat, which can feel faster-paced than our forum's slower, threaded discussions. However, Discord also offers features like **threads** and **slow mode** to manage the flow of conversation and create focused discussions, similar to forum threads. We'll be exploring these options later on in this guide.
+* **Real-time Chat (<img src="https://cdn3.emoji.gg/emojis/6139-channel-text.png" width="14px" height="14px" alt="Discord Channel icon"/>) vs. Threaded Posts (<img src="https://cdn3.emoji.gg/emojis/5971-forum.png" width="14px" height="14px" alt="Discord Forum icon"/>):** Discord's core is real-time chat, which can feel faster-paced than our forum's slower, threaded discussions. However, Discord also offers features like **threads** and **slow mode** to manage the flow of conversation and create focused discussions, similar to forum threads. We'll be exploring these options later on in this guide.
 * **Always-on Presence vs. Asynchronous Participation:** Discord shows who's currently online, fostering a sense of immediacy. On the forum, we were used to participating asynchronously, replying whenever we had time. On Discord, you can still participate at your own pace, but you'll also have the option to engage in live conversations. Managing your online status and notifications will be essential and learning how to adjust them to fit your wants is key to not getting annoyed at the format.
 * **Notifications:** Discord's notifications can be much more frequent than anything we're used to with the Chatty. Any user can tag any other user and prompt a notification to show. Furthermore, you can have assigned roles that you always get prompted for such as the #StarCitizen or #Sports which can also prompt for a notification.
 
@@ -24,27 +24,31 @@ This guide aims to:
 
 ## II. Getting Started: The Basics of Discord
 
-### A. Downloading and Installing Discord (Desktop and Mobile)
+### A. Setting Up Discord
 
-1. **Desktop:**
-    * Go to [https://discord.com/download](https://discord.com/download)
-    * Download the appropriate version for your operating system (Windows, macOS, or Linux).
-    * Run the installer and follow the instructions.
-    * You can also use Discord in your web browser if you prefer not to install the app.
-2. **Mobile:**
-    * Search for "Discord" in the App Store (iOS) or Google Play Store (Android).
-    * Download and install the app.
+#### Desktop Setup
 
+1. Download the installer for your operating system from [https://discord.com/download](https://discord.com/download).
+2. Run the installer & follow the setup instructions for [Windows](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide#h_01HD1PCA2S1V6J8M981210BZCS), [macOS](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide#h_01HD1PCA2SSG11NPMD4W1NY2Y6), or [Linux](https://support.discord.com/hc/en-us/articles/360034561191-Desktop-Installation-Guide#h_01HD1PCA2SYG455Z4B4E0HWRB1).
+
+#### Mobile Setup
+
+Download the "_Discord_" app from the [App Store (iOS)](https://apps.apple.com/us/app/discord-talk-play-hang-out/id985746746) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.discord).
+
+#### Browser Setup
+
+In a browser tab, go to <https://discord.com/login>.
+   
 ### B. Creating an Account and Joining the Server
 
 1. **Creating an Account:**
-    * Open the Discord app or go to [https://discord.com/](https://discord.com/) in your browser.
-    * Click "Register" or "Open Discord in your browser."
-    * Enter your email, choose a username (please use something recognizable from the forum if possible), create a password, and provide your date of birth.
+    * Open the Discord app or go to <https://discord.com/login> in your browser.
+    * Click "_Register_" or "_Open Discord in your browser_".
+    * Enter your email, choose a username (please use something recognizable from the forum if possible), create a password, & provide your date of birth.
     * Verify your email address.
 2. **Joining the Server:**
-    * Use the following link: `https://discord.gg/thechatty` and you'll be prompted to join the server.
-    * Alternatively, you can open Discord, click the "+" icon in the server list (left sidebar), choose "Join a Server," and paste the invite link.
+    * Go to <https://discord.gg/thechatty> in your browser & you'll be prompted to join the server.
+    * Alternatively, you can open Discord, click the `+` icon in the server list (left sidebar), choose "_Join a Server_", & paste the invite link.
 
 ### C. Discord Interface: A Quick Tour
 
@@ -64,19 +68,15 @@ This guide aims to:
 ## III. Bastardizing the Chatty format with Discord
 
 There are three different ways to chat with text in Discord:
-
-Channels:
-![Channel](images/ChatIcon.png)
-Threads:
-![Threads Icon](images/ThreadIcon.png)
-Forums: 
-![Forum](images/ForumIcon.png)
+   * Channels: <img src="images/ChatIcon.png" width="14px" height="14px" alt="Discord Channel icon"/>
+   * Threads: <img src="https://cdn3.emoji.gg/emojis/1148-list-top.png" width="14px" height="14px" alt="Discord Thread icon (top)"> (in live chat) or <img src="https://cdn3.emoji.gg/emojis/1981-list-bottom.png" width="14px" height="14px" alt="Discord Thread icon (bottom)"> (in left navbar) <!-- <img src="images/ThreadIcon.png" width="14px" height="14px" alt="Discord Thread icon"/> -->
+   * Forums: <img src="images/ForumIcon.png" width="14px" height="14px" alt="Discord Forum icon"/>
 
 ### A. Channels
 
 Channels are both the enterance to every day chatrooms where information is presented in real time and also how you access threads, which are a by channel feature.
 
-* **Organization:** Chatty@home has several different categories (e.g., `shacker`, `Food, Health and Fitness`, `Tech`), each of which have channels dedicated to various topics (e.g., `#chatty` `#food-n-drink`, `#devdump`).
+* **Organization:** Chatty@Home has several different categories (e.g., `SHACKER`, `FOOD, HEALTH & FITNESS`, `TECH`), each of which have channels dedicated to various topics (e.g., `#chatty` `#food-n-drink`, `#devdump`). Categories can be collapsed or expanded; toggling a channel will collapse or expand any channel & thread belonging to that category that contain no unread messages.
 * **Pinned Messages:** Important information, rules, or announcements within a channel can be "pinned" to the top of the chat. Click the pin icon in the top right of a channel to view pinned messages.
 ![Pinned Messages](images/PinnedMessages.png)
 * **Announcement Channels:** These special channels are used for important server-wide updates, much like the announcement section of our forum. Only designated roles (e.g., moderators) can post in announcement channels, but everyone can read them.
