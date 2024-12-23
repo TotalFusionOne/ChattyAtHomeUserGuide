@@ -111,3 +111,110 @@ Discord offers a special type of channel called a **Forum Channel** that is desi
   * Use the search bar at the top right of the Discord window.
   * You can filter your search by channel, user, date, and other criteria by using search modifiers like `in:#channel-name` or `from:@username`.
 * **Mentions (@username, @role):** To direct a message to a specific user or group, use the "@" symbol followed by their username or role (e.g., `@moderators`). This is comparable to quoting someone on the forum.
+
+## IV. Communication and Interaction
+
+### A. Text Chat: Writing and Formatting Messages
+
+* **Basic Formatting:**
+  * **Bold:** `**text**`
+  * *Italics:* `*text*`
+  * `Code`: \`\`\`code\`\`\`
+* **Emojis and Reactions:**  Add emojis to your messages using the emoji picker (smiley face icon) or by typing a colon (`:`) followed by the emoji name. You can also react to messages with emojis by clicking the add reaction icon (smiley face with a plus).
+* **Editing and Deleting Messages:** You can edit or delete your own messages by hovering over them and clicking the three dots (ellipsis) that appear.
+
+### B. Replies: Directly responding to messages
+
+* **How to reply:** Hover over the message you want to reply to and click the "reply" icon (arrow pointing to the left). You can also start typing a message and use the @ symbol to mention someone, which will then function as a reply to the message they last sent.
+* **Why replies are important:** It helps keep the chat flowing logically and will prompt when a chat might be better off breaking out into a thread.
+
+### C. Voice and Video Calls (Optional)
+
+These exist. Use them if you'd like. All of it is optional.
+
+* **Voice Channels:**  Our server may have voice channels where you can chat with others using your microphone.
+* **Video Calls:** You can also make video calls within voice channels or direct messages.
+
+## V. Managing Notifications and Staying Sane
+
+### A. Understanding Notification Settings
+
+* **Server-Level Settings:**
+  * Right-click on the server icon in the server sidebar.
+  * Go to "Notification Settings."
+  * You can choose to receive notifications for:
+        *   **All Messages:** You'll be notified about every message in every channel. (Not recommended for busy servers!)
+        *   **Only @mentions:** You'll only be notified when someone specifically mentions your username or a role you belong to.
+        *   **Nothing:** You won't receive any notifications from the server.
+  * You can also choose to **mute** the entire server, which will prevent any notifications from coming through.
+* **Channel-Level Settings:**
+  * Right-click on a specific channel.
+  * Go to "Notification Settings."
+  * You can customize notification settings for individual channels, overriding the server-level settings. For example, you might mute a busy channel but still receive notifications for @mentions in a more important channel.
+* **"Here" and "Everyone" Mentions:**
+  * `@here` notifies all members of a channel who are currently online.
+  * `@everyone` notifies every member of the server, regardless of their online status.
+  * **Please use these mentions sparingly, as they can be disruptive.**
+
+### B. Do Not Disturb Mode: Taking a Break
+
+* Click on your profile picture at the bottom of the server sidebar.
+* Select "Do Not Disturb." This will temporarily silence all Discord notifications.
+
+### C. Managing Your Online Status
+
+* Click on your profile picture.
+* You can set your status to:
+  * **Online:**  Indicates you're active and available.
+  * **Idle:** Indicates you're away from your computer.
+  * **Do Not Disturb:**  Silences notifications.
+  * **Invisible:**  Appears offline to others but allows you to use Discord normally.
+* **Custom Status:** You can also set a custom status message to let people know what you're up to (e.g., "Reading," "Away for lunch").
+
+## VI. Tips, Tricks, and Etiquette
+
+### A. Discord Etiquette
+
+* **Be Respectful:** Treat others with the same courtesy and respect you would on our old forum.
+* **Avoid Spamming:** Don't flood channels with unnecessary messages or repeat the same message multiple times.
+* **Use Appropriate Channels:** Keep discussions relevant to the channel topic.
+* **Use Mentions Sparingly:** Only use `@username`, `@here`, or `@everyone` when necessary.
+* **Don't Be Afraid to Ask for Help:** If you're unsure about something, ask a moderator or another member for assistance.
+
+## VII. Quick Reference Guide
+
+### A. Glossary of Discord Terms
+
+* **Channel:** A space for text or voice conversations, organized by topic.
+* **Thread:** A sub-conversation within a channel, started from a specific message.
+* **Mention:** Using "@" followed by a username or role to notify someone.
+* **DM (Direct Message):** A private message between two users.
+* **Role:** A set of permissions that can be assigned to users (e.g., moderator, member).
+* **Server:** A community on Discord, made up of channels and members.
+* **Slow Mode:** A channel setting that limits how often users can send messages.
+* **Pinned Messages:** Messages that are "pinned" to the top of a channel for easy access.
+* **Bot:** A program that performs automated tasks on Discord.
+
+### B. Common Keyboard Shortcuts
+
+* **Ctrl+K** or **Cmd+K:** Quick Switcher
+* **Ctrl+/ or Cmd+/**: Show keyboard shortcuts
+* **Esc:** Mark channel as read
+
+### C. Notification Settings Cheat Sheet
+
+* **Mute a Server:** Right-click server icon \> Notification Settings \> Mute [Server Name]
+* **Mute a Channel:** Right-click channel name \> Mute Channel
+* **Change Notification Sound:** User Settings (gear icon) \> Notifications \> Message Sound
+
+### D. Troubleshooting Common Issues
+
+* **Can't Hear Audio in Voice Channels:**
+  * Check your audio input/output settings in User Settings \> Voice & Video.
+  * Make sure you've selected the correct microphone and speakers.
+* **Messages Not Sending:**
+  * Check your internet connection.
+  * Make sure you're not in a channel with slow mode enabled and have hit the time limit.
+* **Discord App Crashing:**
+  * Try restarting the app.
+  * If that doesn't work, try reinstalling Discord.
