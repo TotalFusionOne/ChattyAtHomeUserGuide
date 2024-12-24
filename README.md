@@ -1,4 +1,4 @@
-# Discord Transition Guide for [Your Forum Name] Members
+# Discord Transition Guide for Chatty@Home Members
 
 ## I. Introduction: Welcome to Discord!
 
