@@ -1,3 +1,6 @@
+---
+Title: Introduction
+---
 # Discord Transition Guide for Chatty@Home Members
 
 ## I. Introduction: Welcome to Discord!
