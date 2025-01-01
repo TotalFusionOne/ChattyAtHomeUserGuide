@@ -1,10 +1,8 @@
 ---
 title: Home
 layout: home
----
-
----
-title: Discord Transition Guide for Chatty@Home Users
+nav_order: 1
+permalink: /
 ---
 
 It's with a mix of sadness and excitement that we embark on this new chapter, leaving behind the familiar halls of our beloved former forum. It wasn't an easy decision, and it's only natural to feel a pang of nostalgia for the place where we shared so many shackbattles, forged friendships, argued endlessly and built a community over the years. That space was more than just a website; it was a digital home, and saying goodbye is bittersweet. But just as we cherished those memories, we also looked ahead, recognizing the need for a platform that could better serve our evolving needs. This move to Discord is the result of careful consideration, driven by a desire to create an even more vibrant and engaging space for us all.
