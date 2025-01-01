@@ -1,0 +1,15 @@
+title: Chatty@Home Guide
+description: A Guide for Migrating from our old forum to Discord.
+theme: just-the-docs
+
+url: https://totalfusionone.github.io/ChattyAtHomeUserGuide/
+
+aux_links:
+  Template Repository: https://github.com/totalfusionone/ChattyAtHomeUserGuide
+  "Chatty@Home Discord":
+    - https://discord.gg/thechatty
+
+nav_enabled: true
+heading_anchors: true
+color_scheme: dark
+
