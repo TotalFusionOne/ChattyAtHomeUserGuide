@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bridging the Gap
-nav_order: 1
+nav_order: 2
 ---
 
 ## Bridging the Gap: Why Discord, and Why It Feels Different

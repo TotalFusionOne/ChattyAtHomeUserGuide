@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Setting Up Discord
 parent: Introduction
 nav_order: 2
