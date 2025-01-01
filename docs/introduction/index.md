@@ -1,5 +1,6 @@
 ---
-title: Introduction and Setup
+layout: default
+title: Introduction
 nav_order: 2
 ---
 # Introduction and Setup
