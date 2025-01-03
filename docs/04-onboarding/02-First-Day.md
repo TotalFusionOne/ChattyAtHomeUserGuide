@@ -1,10 +1,4 @@
 ---
-layout: default
-title: First Day
-parent: Onboarding
-nav_order: 2
----
----
 layout: page
 title: Our Server's Onboarding Process
 parent: Mastering Discord Features
