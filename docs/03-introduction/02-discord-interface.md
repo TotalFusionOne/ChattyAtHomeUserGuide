@@ -2,7 +2,7 @@
 layout: default
 title: The Discord Interface
 parent: Introduction
-nav_order: 3
+nav_order: 2
 ---
 
 ## Discord Interface: A Quick Tour

@@ -2,7 +2,7 @@
 layout: default
 title: Setting Up Discord
 parent: Introduction
-nav_order: 2
+nav_order: 1
 ---
 ## Setting Up Discord
 
