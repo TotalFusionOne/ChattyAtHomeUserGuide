@@ -1,7 +1,7 @@
 ---
 layout: default
-title: profile settings
-parent: personalization
+title: Profile Settings
+parent: Personalization
 nav_order: 1
 ---
 
