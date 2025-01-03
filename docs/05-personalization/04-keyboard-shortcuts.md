@@ -1,6 +1,6 @@
 ---
 layout: default
-title: keyboard shortcuts
+title: Keyboard shortcuts
 parent: Personalization
 nav_order: 4
 ---

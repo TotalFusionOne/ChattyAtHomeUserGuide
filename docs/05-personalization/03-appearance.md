@@ -1,6 +1,6 @@
 ---
 layout: default
-title: appearance
+title: Appearance
 parent: Personalization
 nav_order: 3
 ---

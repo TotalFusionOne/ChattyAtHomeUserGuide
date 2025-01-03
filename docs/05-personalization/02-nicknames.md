@@ -1,6 +1,6 @@
 ---
 layout: default
-title: nicknames
+title: Nicknames
 parent: Personalization
 nav_order: 2
 ---
